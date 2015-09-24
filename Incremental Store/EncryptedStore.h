@@ -17,6 +17,7 @@ typedef struct _options {
 
 extern NSString * const EncryptedStoreType;
 extern NSString * const EncryptedStorePassphraseKey;
+extern NSString * const EncryptedStoreNewPassphraseKey;
 extern NSString * const EncryptedStoreErrorDomain;
 extern NSString * const EncryptedStoreErrorMessageKey;
 extern NSString * const EncryptedStoreDatabaseLocation;
